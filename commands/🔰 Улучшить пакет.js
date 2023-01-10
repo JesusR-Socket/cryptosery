@@ -14,4 +14,3 @@ if (stat == "partner1" | stat == "partner1ban" | stat == "partner3" | stat == "p
  Bot.setProperty("buy:" + user.telegramid, "4")
  Bot.sendKeyboard("💎 Продвинутый 💎,\n❌ Вернуться","⭕️ Выберите до какого пакета хотите улучшить:");
 }
-

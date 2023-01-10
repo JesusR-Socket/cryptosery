@@ -9,5 +9,5 @@
   aliases: ❌ back
 CMD*/
 
-User.setProperty("buy", null)
+Bot.setProperty("deposit:" + user.telegramid, null)
 Bot.runCommand("main_menu")

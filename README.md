@@ -1,5 +1,5 @@
-# CRYPTO_SIGNAL_INSIDER_BOT - chat bot
-It is repository for chat bot: [@CRYPTO_SIGNAL_INSIDER_BOT](https://t.me/CRYPTO_SIGNAL_INSIDER_BOT)
+# MoneySeven_bot - chat bot
+It is repository for chat bot: [@MoneySeven_bot](https://t.me/MoneySeven_bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.

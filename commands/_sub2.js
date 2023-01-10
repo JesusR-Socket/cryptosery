@@ -9,7 +9,7 @@
   aliases: 
 CMD*/
 
- Bot.setProperty("Subscribe:" + id + "", days - 1);
+Bot.setProperty("Subscribe:" + id + "", days - 1);
   Api.banChatMember({
     chat_id: "-1001691629203",
     user_id: id

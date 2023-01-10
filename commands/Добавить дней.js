@@ -12,4 +12,4 @@ CMD*/
 var id = parseInt(message);
 var stat = Bot.getProperty("" + id + "");
 
-Bot.setProperty("Subscribe:" + id, 366)
+Bot.setProperty("Days:" + id, 14)

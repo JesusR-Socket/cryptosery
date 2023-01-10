@@ -20,4 +20,4 @@ var payid = Bot.getProperty("payid:");
     caption: "✅ Вывод средств успешно выполнен"
   })
 Bot.setProperty("payid:", null);
-} 
+}
